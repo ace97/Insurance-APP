@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######
+pycaret
+Flask
+Jinja2
+gunicorn
+certifi
+itsdangerous
